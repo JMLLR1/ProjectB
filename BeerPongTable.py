@@ -18,3 +18,8 @@ class BeerPong:
     def change_led_arrangement(self):
         pass
 
+
+
+
+if __name__ == '__main__':
+    beerpong = BeerPong()
